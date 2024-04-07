@@ -1,0 +1,1 @@
+//4.	Write a program that finds the sum of diagonal entries of a matrix.
